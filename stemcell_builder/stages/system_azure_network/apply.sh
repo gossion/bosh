@@ -27,6 +27,7 @@ DEVICE=eth0
 BOOTPROTO=dhcp
 ONBOOT=on
 TYPE="Ethernet"
+NM_CONTROLLED=no
 EOS
 
 fi
